@@ -1,0 +1,22 @@
+body{
+    background-color:cornsilk;
+               color:red;
+               text-align:"center";
+               border:"10px";
+               margin:auto;
+
+}
+.text{
+    background-color:aquamarine;
+               color:crimson;
+               text-align:"center";
+               margin:auto;
+
+}
+table{
+    text-align:"center";
+    margin:auto;
+    padding:5px;
+    margin:5px;
+    margin:auto;
+}
